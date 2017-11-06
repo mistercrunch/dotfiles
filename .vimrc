@@ -25,6 +25,7 @@ Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'maksimr/vim-jsbeautify'
 Plugin 'syntastic'
+Plugin 'salt-vim'
 let g:vim_markdown_folding_disabled=1
 call vundle#end()            " required
 filetype plugin indent on    " required
